@@ -1,0 +1,6 @@
+variable1 = input()
+variable2 = input()
+variable3 = input()
+print(variable3)
+print(variable2)
+print(variable1)

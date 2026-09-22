@@ -1,0 +1,5 @@
+sep = input()
+variable1 = input()
+variable2 = input()
+variable3 = input()
+print(variable1, variable2, variable3, sep=sep)
